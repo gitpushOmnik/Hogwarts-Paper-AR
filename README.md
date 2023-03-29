@@ -5,4 +5,6 @@ Developed an iOS application using Swift that utilizes AR-Kit framework to const
 Utilized AR SceneKit to configure and customize the 3D scenes while simultaneously implementing physics simulations and lighting effects to enhance the overall visual experience. Leveraged SpriteKit framework, to integrate and play relevant video clips within the rendered newspaper.
 
 # Demo 
-![image](https://github.com/gitpushOmnik/Hogwarts-Paper-AR/blob/main/demo.gif)
+
+<img src="https://github.com/gitpushOmnik/Hogwarts-Paper-AR/blob/main/demo.gif" width="275" height="600">
+
